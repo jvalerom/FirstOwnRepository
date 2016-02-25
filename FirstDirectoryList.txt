@@ -1,0 +1,5 @@
+total 32
+drwxr-xr-x  3 jvalero cvs  4096 feb 25 06:25 .
+drwx------ 53 jvalero cvs 20480 feb 25 05:47 ..
+-rw-r--r--  1 jvalero cvs     0 feb 25 06:25 FirstDirectoryList.txt
+drwxr-xr-x  7 jvalero cvs  4096 feb 25 06:23 .git
