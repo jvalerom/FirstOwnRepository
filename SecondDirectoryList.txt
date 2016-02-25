@@ -1,0 +1,14 @@
+total 52
+drwxr-xr-x  8 jvalero cvs 4096 feb 25 07:16 .
+drwxr-xr-x  3 jvalero cvs 4096 feb 25 07:21 ..
+drwxr-xr-x  2 jvalero cvs 4096 feb 25 06:23 branches
+-rw-r--r--  1 jvalero cvs   20 feb 25 06:31 COMMIT_EDITMSG
+-rwxr--r--  1 jvalero cvs  275 feb 25 07:16 config
+-rw-r--r--  1 jvalero cvs   73 feb 25 06:23 description
+-rw-r--r--  1 jvalero cvs   41 feb 25 06:43 HEAD
+drwxr-xr-x  2 jvalero cvs 4096 feb 25 06:23 hooks
+-rw-r--r--  1 jvalero cvs  120 feb 25 06:44 index
+drwxr-xr-x  2 jvalero cvs 4096 feb 25 06:23 info
+drwxr-xr-x  3 jvalero cvs 4096 feb 25 06:28 logs
+drwxr-xr-x 10 jvalero cvs 4096 feb 25 06:31 objects
+drwxr-xr-x  5 jvalero cvs 4096 feb 25 07:16 refs
